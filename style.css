@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(180deg, white, #808080) ;
+    background: linear-gradient(90deg, white, #808080) ;
 }
 #w1{
     text-align: center;
@@ -65,5 +65,13 @@ body{
     border-width: 5px;
     border-color: black;
     border-style: solid;
+    padding: 50px;
+    font-size: 25px;
+  }
+  .d3{
+    margin-left: 800px;
+    margin-top: 170px;
+    font-size: 30px;
+    font-family: Apple Chancery, cursive;
   }
   
