@@ -67,6 +67,12 @@ body{
     border-style: solid;
     padding: 50px;
     font-size: 25px;
+    background-color: black;
+    border-radius: 10%;
+  }
+  td:hover{
+      background-color: gray;
+      border-color: gray;
   }
   .d3{
     margin-left: 800px;
@@ -74,4 +80,40 @@ body{
     font-size: 30px;
     font-family: Apple Chancery, cursive;
   }
-  
+  .d4{
+    border-color: black;
+    border-style: solid;
+    margin-right: 1725px;
+    padding: 50px;
+    font-size: 25px;
+    background-color: black;
+    border-radius: 10%;
+  }
+  .d4:hover{
+    background-color: gray;
+    border-color: gray;
+  }
+  .d5{
+    border-color: grey;
+    border-style: solid;
+    border-width: 5px;
+    padding: 100px;
+    font-size: 30px;
+    border-radius: 10%;
+  }
+  a:hover{
+    text-decoration: none;
+    color: black;
+  }
+  a:link{
+    text-decoration: none;
+    color: white;
+  }
+  a:visited{
+    text-decoration: none;
+    color: white;
+  }
+  a:active{
+    text-decoration: none;
+    color: black;
+  }
